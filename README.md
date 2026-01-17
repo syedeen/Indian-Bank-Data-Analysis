@@ -23,5 +23,14 @@ https://www.rbi.org.in/Scripts/ATMView.aspx?atmid=170
 ## Usage
 1. Open the Excel file  
 2. Go to **Data → Refresh All** to update dashboards  
-3. Use slicers to explore insights  
+3. Use slicers to explore insights
+
+## Dashboard Preview
+<div>
+  <img src="images/img1.png" height="500" width="500">
+  <img src="images/img2.png" height="500" width="500">
+  <img src="images/img3.png" height="500" width="500">
+  <img src="images/img4.png" height="500" width="500">
+</div>
+
 
